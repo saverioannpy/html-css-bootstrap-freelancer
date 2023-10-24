@@ -7,9 +7,18 @@
 
 /******* Header ******/
 
+header{
+    background-color: #2c3e50;
+    color: white;
+}
 
 
 /******* Main ******/
+
+.jumbotron{
+    background-color: #1abc9c;
+}
+
 ._ms_img-container{
     width: 360px;
     height: 260px;
