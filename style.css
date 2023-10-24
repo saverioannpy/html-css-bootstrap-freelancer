@@ -4,7 +4,6 @@
 /******* Common ******/
 
 
-
 /******* Header ******/
 
 header{
@@ -30,6 +29,10 @@ header{
 
 ._ms_img-container img{
     width: 100%;
+}
+
+.portfolio{
+    color: #2c3e50;
 }
 
 
