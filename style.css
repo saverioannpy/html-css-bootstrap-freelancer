@@ -87,14 +87,12 @@ footer ul{
 }
 
 footer button{
-    font-size: 10px;
+    height: 3.4375rem;
+    width: 3.4375rem;
+    font-size: 20px;
     color: white;
     border: 1px solid white;
     border-radius: 50%;
     background-color: #3a546d;
     margin-right: 10px;
-}
-
-footer .footer-bottom i{
-    font-size: 10px;
 }
