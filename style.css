@@ -11,7 +11,7 @@ header{
 }
 
 
-/******* Main ******/
+/******* Jumbotron ******/
 
 .jumbotron{
     background-color: #1abc9c;
@@ -19,16 +19,15 @@ header{
 
 .jumbotron .container ._sa-container-img{
     height: 260px;
-    width: 230px;
+    width: 240px;
 }
+
+/****** Portfolio *******/
+
 
 ._ms_img-container{
-    width: 360px;
-    height: 260px;
-}
-
-._ms_img-container img{
-    width: 100%;
+    width: 495px;
+    height: 360px;
 }
 
 .portfolio{
