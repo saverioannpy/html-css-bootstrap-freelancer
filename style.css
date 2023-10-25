@@ -39,6 +39,29 @@ header{
     color: white;
 }
 
+/****+ Contact *****/
 
+.contact{
+    color: #2c3e50;;
+}
+
+.contact .contact-form input{
+    border-width: 0px 0px 1px 0px;
+    border-radius: 0;
+}
+
+
+.contact .contact-form input::placeholder{
+    color: black;
+}
+
+.contact .contact-form input:nth-child(4){
+    padding-bottom: 150px;
+}
+
+.contact .contact-form button{
+    background-color: #1abc9c;
+    border: 0;
+}
 
 /******* Footer ******/
